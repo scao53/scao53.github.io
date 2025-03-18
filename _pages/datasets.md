@@ -30,5 +30,3 @@ I've compiled a list of public population surveys that include disability-relate
 [National Survey on Drug Use and Health (NSDUH)](https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles)
 
 [Administration for Community Living (ACL) Data](https://acl.gov/aging-and-disability-in-america/data-and-research)
-
-
