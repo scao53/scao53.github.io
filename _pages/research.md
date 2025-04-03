@@ -19,7 +19,7 @@ Loiacono, E., & **Cao, S.** (2023). The chains that bind: Gender, disability, ra
 
 **Cao, S.**, & Loiacono, E. (2021). Perceptions of Web accessibility guidelines by student website and app developers. *Behaviour & Information Technology*.  [http://dx.doi.org/10.1080/0144929X.2021.1940278](http://dx.doi.org/10.1080/0144929X.2021.1940278)
 
-## Selected Invited Talks and Conference Presentations
+## Selected Invited Talks & Conference Presentations
 
 **Cao, S.** (2025). Conducting statistics and data science research in the disability inclusion field. *Bucknell University Distinguished Visiting Professor Colloquium*, Lewisburg, Pennsylvania.
 
