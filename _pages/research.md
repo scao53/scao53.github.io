@@ -27,7 +27,7 @@ Loiacono, E., & **Cao, S.** (2023). The chains that bind: Gender, disability, ra
 
 **Cao, S.**, <u>Yang, C. ’25J</u>, & <u>Xu, V.</u> (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *2023 Women in Statistics and Data Science Conference*, Bellevue, Washington.
 
-<u>Xu, V.</u>, & **Cao, S.** (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *2022 NextGen Data Science Day (DSD) Conference*, Virtual.
+<u>Xu, V.</u>, & **Cao, S.** (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *2022 NextGen Data Science Day Conference*, Virtual.
 
 **Cao, S.** (2021). Information systems legitimation strategies in the non-economic values generation context. *Workshop on Information Technologies and Systems*, Virtual.
 
@@ -35,6 +35,6 @@ Loiacono, E., & **Cao, S.** (2023). The chains that bind: Gender, disability, ra
 
 **Cao, S.** (2020). How and why various levels of access to information systems impact the outcomes of an organizational social process. *The 20th Boston Field Research Conference at the Boston University-Questrom School Business*, Virtual.
 
-**Cao, S.**, & Loiacono, E. (2020). A theoretical framework for information systems in the workplace accommodation process from a social model perspective. *Academy of Management (AOM) OCIS Paper Development Workshop*, Virtual.
+**Cao, S.**, & Loiacono, E. (2020). A theoretical framework for information systems in the workplace accommodation process from a social model perspective. *Academy of Management OCIS Paper Development Workshop*, Virtual.
 
-**Cao, S.** (2020). Exploring information systems for the workplace accommodation process from a social model perspective. *Academy of Management (AOM) OCIS Doctoral Consortium*, Virtual.
+**Cao, S.** (2020). Exploring information systems for the workplace accommodation process from a social model perspective. *Academy of Management OCIS Doctoral Consortium*, Virtual.
