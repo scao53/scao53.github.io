@@ -21,6 +21,8 @@ Loiacono, E., & **Cao, S.** (2023). The chains that bind: Gender, disability, ra
 
 ## Selected Invited Talks & Conference Presentations
 
+**Cao, S.** (2025). Integrating disability inclusion components into data science pedagogy. *U.S. Conference on Teaching Statistics*, Ames, Iowa.
+
 **Cao, S.** (2025). Conducting statistics and data science research in the disability inclusion field. *Bucknell University Distinguished Visiting Professor Colloquium*, Lewisburg, Pennsylvania.
 
 **Cao, S.**, <u>Yang, C. ’25J</u>, & <u>Xu, V.</u> (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *2023 Women in Statistics and Data Science Conference*, Bellevue, Washington.
