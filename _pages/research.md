@@ -9,6 +9,10 @@ author_profile: true
 
 Note: Student collaborators are <u>underlined</u> and include graduation year.
 
+**Cao, S.**, Rosenfeld, H., and <u>Susnea, S. ’25</u>. (Forthcoming). “Educational Opportunities of Participatory GIS for Accessibility on a College Campus,” *Journal of Geography in Higher Education*.
+
+**Cao, S.** (Forthcoming). “A Review of Research and Practices on Teaching Data Visualizations for Blind and Visually Impaired Students (full version),” *Chance*.
+
 <u>Lin, J. Q. ’25J</u>, <u>Liu, K. ’24</u>, **Cao, S.**, <u>Liu, Z. ’25</u>, & <u>Pham, L. ’25</u>. (In preparation). Examining the intersection of disability, ethnicity, and gender in shaping the employment outcomes of higher educated individuals. 3rd round, under review at the *Journal of Disability Policy Studies*.
 
 **Cao, S.** (2023). Examining information systems use to facilitate the workplace accommodation process. *Work: A Journal of Prevention, Assessment & Rehabilitation*. [https://doi.org/10.3233/WOR-220716](https://doi.org/10.3233/WOR-220716)
