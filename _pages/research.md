@@ -9,7 +9,7 @@ author_profile: true
 
 Note: Student collaborators are <u>underlined</u> and include graduation year.
 
-**Cao, S.**, Rosenfeld, H., and <u>Susnea, S. ’25</u>. (Forthcoming). “Educational Opportunities of Participatory GIS for Accessibility on a College Campus,” *Journal of Geography in Higher Education*.
+**Cao, S.**, Rosenfeld, H., and <u>Susnea, S. ’25</u>. (2025). “Educational Opportunities of Participatory GIS for Accessibility on a College Campus,” *Journal of Geography in Higher Education*. [https://doi.org/10.1080/03098265.2025.2549304](https://doi.org/10.1080/03098265.2025.2549304)
 
 **Cao, S.** (Forthcoming). “A Review of Research and Practices on Teaching Data Visualizations for Blind and Visually Impaired Students (full version),” *Chance*.
 
