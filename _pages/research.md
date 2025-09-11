@@ -11,7 +11,7 @@ Note: Student collaborators are <u>underlined</u> and include graduation year.
 
 **Cao, S.**, Rosenfeld, H., and <u>Susnea, S. ’25</u>. (2025). “Educational Opportunities of Participatory GIS for Accessibility on a College Campus,” *Journal of Geography in Higher Education*. [https://doi.org/10.1080/03098265.2025.2549304](https://doi.org/10.1080/03098265.2025.2549304)
 
-**Cao, S.** (Forthcoming). “A Review of Research and Practices on Teaching Data Visualizations for Blind and Visually Impaired Students (full version),” *Chance*.
+**Cao, S.** (2025). “A Review of Research and Practices on Teaching Data Visualizations for Blind and Visually Impaired Students (full version),” *Chance*.
 
 <u>Lin, J. Q. ’25J</u>, <u>Liu, K. ’24</u>, **Cao, S.**, <u>Liu, Z. ’25</u>, & <u>Pham, L. ’25</u>. (In preparation). Examining the intersection of disability, ethnicity, and gender in shaping the employment outcomes of higher educated individuals. 3rd round, under review at the *Journal of Disability Policy Studies*.
 
@@ -24,6 +24,8 @@ Loiacono, E., & **Cao, S.** (2023). The chains that bind: Gender, disability, ra
 **Cao, S.**, & Loiacono, E. (2021). Perceptions of Web accessibility guidelines by student website and app developers. *Behaviour & Information Technology*.  [http://dx.doi.org/10.1080/0144929X.2021.1940278](http://dx.doi.org/10.1080/0144929X.2021.1940278)
 
 ## Selected Invited Talks & Conference Presentations
+
+**Cao, S.** (2025). Examining intersectionality and employment issues using public population surveys. *Cornell University School of Industrial and Labor Relations Yang-Tan Institute on Employment and Disability Visting Fellow Talk*, Ithaca, New York.
 
 **Cao, S.** (2025). Integrating disability inclusion components into data science pedagogy. *U.S. Conference on Teaching Statistics*, Ames, Iowa.
 
