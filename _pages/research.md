@@ -25,7 +25,7 @@ Loiacono, E., & **Cao, S.** (2023). The chains that bind: Gender, disability, ra
 
 ## Selected Invited Talks & Conference Presentations
 
-**Cao, S.** (2025). Examining intersectionality and employment issues using public population surveys. *Cornell University School of Industrial and Labor Relations Yang-Tan Institute on Employment and Disability Visting Fellow Talk*, Ithaca, New York.
+**Cao, S.** (2025). Examining intersectionality and employment issues using public population surveys. *Cornell University School of Industrial and Labor Relations Yang-Tan Institute on Employment and Disability Visiting Fellow Talk*, Ithaca, New York.
 
 **Cao, S.** (2025). Integrating disability inclusion components into data science pedagogy. *U.S. Conference on Teaching Statistics*, Ames, Iowa.
 
