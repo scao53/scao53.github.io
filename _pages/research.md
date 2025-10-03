@@ -11,7 +11,7 @@ Note: Student collaborators are <u>underlined</u> and include graduation year.
 
 **Cao, S.**, Rosenfeld, H., and <u>Susnea, S. ’25</u>. (2025). “Educational Opportunities of Participatory GIS for Accessibility on a College Campus,” *Journal of Geography in Higher Education*. [https://doi.org/10.1080/03098265.2025.2549304](https://doi.org/10.1080/03098265.2025.2549304)
 
-**Cao, S.** (2025). “A Review of Research and Practices on Teaching Data Visualizations for Blind and Visually Impaired Students (full version),” *Chance*.
+**Cao, S.** (2025). “A Review of Research and Practices on Teaching Data Visualizations for Blind and Visually Impaired Students (full version),” *Chance*. [https://doi-org.libproxy.smith.edu/10.1080/09332480.2025.2560278](https://doi-org.libproxy.smith.edu/10.1080/09332480.2025.2560278)
 
 <u>Lin, J. Q. ’25J</u>, <u>Liu, K. ’24</u>, **Cao, S.**, <u>Liu, Z. ’25</u>, & <u>Pham, L. ’25</u>. (In preparation). Examining the intersection of disability, ethnicity, and gender in shaping the employment outcomes of higher educated individuals. 3rd round, under review at the *Journal of Disability Policy Studies*.
 
