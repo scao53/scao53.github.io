@@ -15,7 +15,7 @@ Note: Student collaborators are <u>underlined</u> and include graduation year.
 
 <u>Lin, J. Q. ’25J</u>, <u>Liu, K. ’24</u>, **Cao, S.**, <u>Liu, Z. ’25</u>, & <u>Pham, L. ’25</u>. (In preparation). Examining the intersection of disability, ethnicity, and gender in shaping the employment outcomes of higher educated individuals. 3rd round, under review at the *Journal of Disability Policy Studies*.
 
-**Cao, S.** (2023). Examining information systems use to facilitate the workplace accommodation process. *Work: A Journal of Prevention, Assessment & Rehabilitation*. [https://doi.org/10.3233/WOR-220716](https://doi.org/10.3233/WOR-220716)
+**Cao, S.** (2023). Examining information systems use to facilitate the workplace accommodation process. *Work: A Journal of Prevention, Assessment & Rehabilitation*. [https://doi.org/10.3233/WOR-220716](https://journals-sagepub-com.libproxy.smith.edu/doi/10.3233/WOR-220716)
 
 Loiacono, E., & **Cao, S.** (2023). The chains that bind: Gender, disability, race, and IT accommodations. *In Handbook of Gender and Technology: Environment, Identity, Individual*, Trauth, E. and Quesenberry, J., eds. (252-272), Cheltenham, UK: Edward Elgar Publishing. [https://doi.org/10.4337/9781800377929.00021](https://doi.org/10.4337/9781800377929.00021)
 
