@@ -25,15 +25,17 @@ Loiacono, E., & **Cao, S.** (2023). The chains that bind: Gender, disability, ra
 
 ## Selected Invited Talks & Conference Presentations
 
+**Cao, S.**, & <u>Qin, L. ’26</u>. (2025). Engaging undergraduate students in disability statistics: A project example: Understanding the sexual orientation and gender intersection-related healthcare disparities from a social context perspective. Invited Panel Session on Teamwork Makes the Dream Work: Leveraging Different Approaches to Learn from Data. *Women in Statistics and Data Science Conference*, Virtual. 
+
 **Cao, S.** (2025). Examining intersectionality and employment issues using public population surveys. *Cornell University School of Industrial and Labor Relations Yang-Tan Institute on Employment and Disability Visiting Fellow Talk*, Ithaca, New York.
 
 **Cao, S.** (2025). Integrating disability inclusion components into data science pedagogy. *U.S. Conference on Teaching Statistics*, Ames, Iowa.
 
 **Cao, S.** (2025). Conducting statistics and data science research in the disability inclusion field. *Bucknell University Distinguished Visiting Professor Colloquium*, Lewisburg, Pennsylvania.
 
-**Cao, S.**, <u>Yang, C. ’25J</u>, & <u>Xu, V.</u> (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *2023 Women in Statistics and Data Science Conference*, Bellevue, Washington.
+**Cao, S.**, <u>Yang, C. ’25J</u>, & <u>Xu, V.</u> (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *Women in Statistics and Data Science Conference*, Bellevue, Washington.
 
-<u>Xu, V.</u>, & **Cao, S.** (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *2022 NextGen Data Science Day Conference*, Virtual.
+<u>Xu, V.</u>, & **Cao, S.** (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *NextGen Data Science Day Conference*, Virtual.
 
 **Cao, S.** (2021). Information systems legitimation strategies in the non-economic values generation context. *Workshop on Information Technologies and Systems*, Virtual.
 
