@@ -9,6 +9,8 @@ author_profile: true
 
 Note: Student collaborators are <u>underlined</u> and include graduation year.
 
+**Cao, S.**, <u>Merza, M. ’25</u>, <u>Silovsky, S. ’24</u>, <u>Tresvalles, N. ’24</u>, <u>Qin, L. ’26</u>, and <u>Susnea, S. ’25</u>. (Forthcoming). “Examining the Intersectional and Structural Issues of Healthcare Utilization Inequities for LGB People with Chronic Diseases,” *International Journal of Environmental Research and Public Health*.
+
 **Cao, S.**, Rosenfeld, H., and <u>Susnea, S. ’25</u>. (2025). “Educational Opportunities of Participatory GIS for Accessibility on a College Campus,” *Journal of Geography in Higher Education*. [https://doi.org/10.1080/03098265.2025.2549304](https://doi.org/10.1080/03098265.2025.2549304)
 
 **Cao, S.** (2025). “A Review of Research and Practices on Teaching Data Visualizations for Blind and Visually Impaired Students (full version),” *Chance*. [https://doi-org.libproxy.smith.edu/10.1080/09332480.2025.2560278](https://doi-org.libproxy.smith.edu/10.1080/09332480.2025.2560278)
