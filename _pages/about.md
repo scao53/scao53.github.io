@@ -38,7 +38,7 @@ Hi! My name is Amber, and I’m a rising senior majoring in Psychology and Stati
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/AnnaZhao.jpg" alt="Anna Zhao" style="border-radius: 50%;">
+<img src="../images/AnnaZhao_square.jpg" alt="Anna Zhao" style="border-radius: 50%;">
 
 </div>
 
