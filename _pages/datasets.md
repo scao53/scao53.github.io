@@ -30,7 +30,7 @@ install.packages("tripaccess")
 
 Please see [the package site](https://scao53.github.io/tripaccess/) for more usage of the `tripaccess`, `person`, `house`, and `trip` datasets.
 
-## Datasets
+## Datasets that Include Disability-Related Variables
 
 I've compiled a list of public population surveys that include disability-related variables.
 
