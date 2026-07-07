@@ -22,11 +22,7 @@ condition “that makes it difficult to travel outside of home”. These two
 datasets also include travel accommodations information, e.g., walker,
 cane.
 
-Install `tripaccess` with:
-
-``` r
-install.packages("tripaccess")
-```
+Install `tripaccess` with: `install.packages("tripaccess")`
 
 Please see [the package site](https://scao53.github.io/tripaccess/) for more usage of the `tripaccess`, `person`, `house`, and `trip` datasets.
 
