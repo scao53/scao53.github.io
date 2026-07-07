@@ -7,7 +7,28 @@ author_profile: true
 
 ## `tripaccess` Data Package
 
+I'm happy to announce that `tripaccess 0.1.0: American Travel Behavior and Access Datasets` is now available on CRAN. It contains four datasets `tripaccess`, `person`, `house`,
+and `trip`, constructed from the [National Household Travel Survey
+(NHTS)](https://nhts.ornl.gov/) 2017 person, house, and trip files. It includes personal trips,
+mobility, demographic, and household information. It is suitable for
+data visualization, data wrangling, joining datasets, exploratory data
+analysis, group comparisons, simple linear regression, categorical
+data analysis, and data ethics discussion in data science and statistics
+classes. 
 
+One goal of this data package is to increase awareness of disability inclusion by examining factors or characteristics that are associated with different travel behaviors of people who have a travel disability. The `tripaccess` and `person` datasets include a variable
+`travel_disability`, indicating whether respondents have a medical
+condition “that makes it difficult to travel outside of home”. These two
+datasets also include travel accommodations information, e.g., walker,
+cane.
+
+Install `tripaccess` with:
+
+``` r
+install.packages("tripaccess")
+```
+
+Please see [the package site](https://scao53.github.io/tripaccess/) for more usage of the `tripaccess`, `person`, `house`, and `trip` datasets.
 
 ## Datasets
 
