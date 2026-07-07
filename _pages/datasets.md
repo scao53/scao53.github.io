@@ -24,7 +24,7 @@ cane.
 
 Install `tripaccess` with: `install.packages("tripaccess")`
 
-Please see [the package site](https://scao53.github.io/tripaccess/) for more usage of the `tripaccess`, `person`, `house`, and `trip` datasets.
+Please see [the package site](https://scao53.github.io/tripaccess/) for more example usage of the `tripaccess`, `person`, `house`, and `trip` datasets.
 
 ## Datasets that Include Disability-Related Variables
 
