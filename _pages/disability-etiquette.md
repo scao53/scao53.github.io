@@ -37,6 +37,7 @@ We recognize that there is still a debate in the disability community regarding 
 * **Do** use specifics such as “left a hundred feet” or “right two yards.”
 * **Don't** leave them without excusing yourself first.
 * If the person has a guide dog, **don't** distract the dog; it is always working and is not a pet.
+* **Do** introduce yourself, saying your name etc., even if you know the person, and **don't** assume the person recognizes you.
 
 ### When you're with people who are deaf or hard-of-hearing:
 
