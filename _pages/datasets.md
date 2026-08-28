@@ -7,7 +7,7 @@ author_profile: true
 
 ## `tripaccess` Data Package
 
-I'm happy to announce that `tripaccess 0.1.0: American Travel Behavior and Access Datasets` is now available on CRAN. It contains four datasets `tripaccess`, `person`, `house`,
+I'm happy to announce that `tripaccess: American Travel Behavior and Access Datasets` is now available on CRAN. It contains four datasets `tripaccess`, `person`, `house`,
 and `trip`, constructed from the [National Household Travel Survey
 (NHTS)](https://nhts.ornl.gov/) 2017 person, house, and trip files. It includes personal trips,
 mobility, demographic, and household information. It is suitable for
