@@ -15,7 +15,7 @@ Note: Student collaborators are <u>underlined</u> and include graduation year.
 
 **Cao, S.** (2025). “A Review of Research and Practices on Teaching Data Visualizations for Blind and Visually Impaired Students (full version),” *Chance*. [https://doi-org.libproxy.smith.edu/10.1080/09332480.2025.2560278](https://doi-org.libproxy.smith.edu/10.1080/09332480.2025.2560278)
 
-<u>Lin, J. Q. ’25J</u>, <u>Liu, K. ’24</u>, **Cao, S.**, <u>Liu, Z. ’25</u>, & <u>Pham, L. ’25</u>. (In preparation). Examining the intersection of disability, ethnicity, and gender in shaping the employment outcomes of higher educated individuals. 3rd round, under review at the *Journal of Disability Policy Studies*.
+<u>Lin, J. Q. ’25J</u>, <u>Liu, K. ’24</u>, **Cao, S.**, <u>Liu, Z. ’25</u>, & <u>Pham, L. ’25</u>. (In preparation). Examining the intersection of disability, ethnicity, and gender in shaping the employment outcomes of higher educated individuals. 4th round, under review at the *Journal of Disability Policy Studies*.
 
 **Cao, S.** (2023). Examining information systems use to facilitate the workplace accommodation process. *Work: A Journal of Prevention, Assessment & Rehabilitation*. [https://doi.org/10.3233/WOR-220716](https://journals-sagepub-com.libproxy.smith.edu/doi/10.3233/WOR-220716)
 
