@@ -16,7 +16,7 @@ analysis, group comparisons, simple linear regression, categorical
 data analysis, and data ethics discussion in data science and statistics
 classes. 
 
-One goal of this data package is to increase awareness of disability inclusion by examining factors or characteristics that are associated with different travel behaviors of people who have a travel disability. The `tripaccess` and `person` datasets include a variable
+One goal of this data package is to increase awareness of disability inclusion by examining factors or characteristics that are associated with travel behaviors of people who have a travel disability. The `tripaccess` and `person` datasets include a variable
 `travel_disability`, indicating whether respondents have a medical
 condition “that makes it difficult to travel outside of home”. These two
 datasets also include travel accommodations information, e.g., walker,
@@ -28,7 +28,7 @@ Please see [the package site](https://scao53.github.io/tripaccess/) for more exa
 
 ## Datasets that Include Disability-Related Variables
 
-I've compiled a list of public population surveys that include disability-related variables.
+I've compiled a list of public population surveys that include disability-related variables (e.g., disability status, disability type, disability income, accommodation type).
 
 [Current Population Survey (CPS)](https://www.census.gov/programs-surveys/cps/data/datasets.html)
 
