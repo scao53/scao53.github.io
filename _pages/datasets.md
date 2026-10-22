@@ -42,7 +42,7 @@ I've compiled a list of public population surveys that include disability-relate
 
 [Panel Study of Income Dynamics (PSID)](https://simba.isr.umich.edu/data/data.aspx)
 
-[Medical Expenditure Panel Survey (MEPS)](https://www.meps.ahrq.gov/mepsweb/data_stats/data_overview.jsp)
+[Medical Expenditure Panel Survey (MEPS)](https://meps.ahrq.gov/mepsweb/data_stats/data_overview.jsp)
 
 [California Health Interview Survey (CHIS)](https://healthpolicy.ucla.edu/our-work/california-health-interview-survey-chis/access-chis-data)
 
