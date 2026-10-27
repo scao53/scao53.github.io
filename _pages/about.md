@@ -44,6 +44,16 @@ Hi! My name is Amber, and I’m a rising senior majoring in Psychology and Stati
 
 Hi! My name is Anna. I'm a rising senior majoring in Statistical and Data Sciences. I previously took SDS 300, which deepened my interest in disability inclusion topics and in how data-driven research can help identify and address social disparities. I’m excited to join the DIAL Lab and continue conducting research about disability inclusion and accessibility.
 
+### Wenxuan Qu
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/WenxuanQu.jpg" alt="Wenxuan Qu" style="border-radius: 50%;">
+
+</div>
+
+My name is Wenxuan Qu, a sophomore with prospective majors in Statistical & Data Science and Environmental Science and Policy. Using data analysis skills to tackle real-world issues, spanning from disability inclusion to environmental problems, is fascinating to me. Currently, I am working on random projection algorithms that can be used for differential privacy. It has been an honor to join the DIAL Lab and be exposed to a range of novel and insightful topics.
+
 ### Lab Alumni
 
 Linh Pham (Fall 2022 - Spring 2023)
